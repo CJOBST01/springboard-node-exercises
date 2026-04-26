@@ -1,0 +1,7 @@
+{
+  "name": "node-intro",
+  "version": "1.0.0",
+  "private": true,
+  "main": "step3.js",
+  "dependencies": { "axios": "^1.6.0" }
+}
